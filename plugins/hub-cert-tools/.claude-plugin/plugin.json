@@ -1,0 +1,8 @@
+{
+  "name": "hub-cert-tools",
+  "version": "1.0.0",
+  "description": "Hub cluster certificate tools - check configuration and assess certificate changes",
+  "author": {
+    "name": "stolostron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "acm-skills-marketplace",
+  "owner": {
+    "name": "stolostron"
+  },
+  "description": "Claude Code skills for ACM (Advanced Cluster Management)",
+  "plugins": [
+    {
+      "name": "hub-cert-tools",
+      "source": "./plugins/hub-cert-tools",
+      "description": "Hub cluster certificate tools - check configuration and assess certificate changes"
+    }
+  ]
+}
